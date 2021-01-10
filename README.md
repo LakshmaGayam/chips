@@ -1,4 +1,4 @@
-# Chips
+# Chips and Chart.js to plot graphs on data from RESTApi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
